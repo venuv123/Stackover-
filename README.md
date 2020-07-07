@@ -14,15 +14,9 @@ You will need to download Stackoverflow’s 2017 and 2018 Annual Developer Surve
 
 To move the downloaded files to the specific folder, you can execute.
 
-1. Stackoverflow’s 2017 data
-```bash 
-mv survey_results_public.csv Write-a-Data-Science-Blog-Post/data/2017/survey_results_public.csv 
-```
 
-2. Stackoverflow’s 2018 data
-```bash 
-mv survey_results_public.csv Write-a-Data-Science-Blog-Post/data/2018/survey_results_public.csv 
-```
+
+
 
 ## Project Motivation
 
@@ -37,16 +31,7 @@ This is an Udacity Nanodegree project. I picked Stackoverflow Developer Survey D
 4. "Which occupations were most popular in India in each year?"
 
 
-## File Description
 
-#### DataScience_blogpost.ipynb: 
-Notebook containing the data analysis.
-#### data/2017/survey_results_public.csv: 
-Stackoverflow's 2017 Annual Developer Survey data.
-#### data/2018/survey_results_public.csv: 
-Stackoverflow's 2018 Annual Developer Survey data.
-
-## Results
 
 The main findings of the code can be found at the post available [here](https://medium.com/@venugoogly415/25a0e44201b) 
 

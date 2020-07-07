@@ -48,8 +48,7 @@ Stackoverflow's 2018 Annual Developer Survey data.
 
 ## Results
 
-The main findings of the code can be found at the post available [here](https://medium.com/p/82bfe33b85d0/edit)
+The main findings of the code can be found at the post available [here](https://medium.com/@venugoogly415/25a0e44201b) 
 
-## Licensing, Authors, Acknowledgements
 
-Must give credit to Stackoverflow for the data. You can find the Licensing for the data and other descriptive information at the Stackoverflow link available [here](https://insights.stackoverflow.com/survey).
+
